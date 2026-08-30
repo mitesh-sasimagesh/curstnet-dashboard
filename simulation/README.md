@@ -19,11 +19,7 @@ python3 -m streamlit run app.py
 
 Opens at `http://localhost:8501`.
 
-## Deploy it publicly (same flow as the other dashboard)
 
-1. Push `app.py` + `requirements.txt` to a new GitHub repo (e.g. `curstnet-demo`).
-2. Go to https://share.streamlit.io → "New app" → point it at the repo, entry file `app.py`.
-3. Deploy — you get a public link anyone can open, no install needed.
 
 ## Updating
 
